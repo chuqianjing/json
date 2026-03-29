@@ -21,7 +21,7 @@
       "公告": "【4月份支部换届选举候选人公示】\n楚乾靖"
     },
     "交互设置": {
-      "配置同步URL": "",
+      "配置同步URL": "https://raw.githubusercontent.com/chuqianjing/json/refs/heads/main/admin_config.json",
       "成员可否切换模式": "允许"
     }
   },
